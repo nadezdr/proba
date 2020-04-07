@@ -16,7 +16,7 @@ namespace pentominov1
         {
             InitializeComponent();
         }
-
+//eo nes i dunja da kaze
         public int maliKvadrat = 15; //jedinicni kv figurice
         cFigura[] nizFigura = new cFigura[12];
         public Point[] nizPocPozicija = new Point[12];
